@@ -1,0 +1,9 @@
+SnappDriver/
+├── main.py
+├── models.py
+├── screens/
+│   ├── driver_page.py
+│   ├── ride_request_page.py
+│   └── passenger_page.py
+└── assets/
+    └── icon.png
